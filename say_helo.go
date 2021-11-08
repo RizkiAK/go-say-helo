@@ -1,5 +1,5 @@
 package modulgosayhelo
 
 func SayHello() string {
-	return "Helo"
+	return "Helo World"
 }
