@@ -1,5 +1,7 @@
 package modulgosayhelo
 
-func SayHello() string {
-	return "Helo World"
+// ketika update, tag perlu update juga
+
+func SayHello(name string) string {
+	return "Helo " + name
 }
